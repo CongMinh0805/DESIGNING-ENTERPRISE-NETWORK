@@ -10,3 +10,6 @@ Network design using Cisco Packet Tracer:
 
 Signal strength simulation using MATLAB:
 ![signal simulation](./signal_simulation.png)
+
+The DHCP server dynamically assigns IP addresses to devices within the network, ensuring efficient IP address management and avoiding conflicts. The laptops connected via Wi-Fi receive their IP addresses dynamically from the DHCP server, ensuring seamless connectivity and ease of network management without any conflicts or overlaps.
+![webpage testing](./webpage_testing.png)
