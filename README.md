@@ -6,4 +6,4 @@ Using Cisco Packet Tracer and MATLAB, the primary objective of this project is t
 5. Testing the design through test runs and MATLAB simulation of signal strength.
 
 Network design
-![network design](./network design.png)
+![network design](./network_design.png)
